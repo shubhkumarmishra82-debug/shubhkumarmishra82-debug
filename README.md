@@ -1,5 +1,5 @@
-<!-- ⚡ Profile README for shubhkumarmishra82-debug -->
-<!-- Put this file in a repo named exactly: shubhkumarmishra82-debug (public), as README.md -->
+<!-- Profile README for shubhkumarmishra82-debug -->
+<!-- Put this file in a public repo named exactly: shubhkumarmishra82-debug, as README.md -->
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 <!-- ===== TYPING EFFECT ===== -->
 <a href="https://github.com/shubhkumarmishra82-debug">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&random=false&width=750&height=60&lines=Hey+%F0%9F%91%8B+I'm+Shubh+%7C+aka+MADARA;Telegram+Bot+Developer+%F0%9F%A4%96;Python+%26+JavaScript+Builder+%E2%9A%A1;Deploying+with+Zero-VPS+%E2%98%81%EF%B8%8F;Building+Cinematic+3D+Web+Projects+%F0%9F%8C%8C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&random=false&width=750&height=60&lines=Hi,+I'm+Shubh+%7C+aka+MADARA;Backend+Developer+%F0%9F%94%A7;Full+API+Design+%26+Development+%E2%9A%99%EF%B8%8F;3D+Scroll+Website+Developer+%F0%9F%8E%A8;Python+%26+JavaScript+Engineer+%E2%9A%A1;Cloud+Deployment+%26+Automation+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,8 +19,8 @@
 <br/>
 
 <img src="https://img.shields.io/badge/NAME-SHUBH-6A00FF?style=for-the-badge&logo=github&logoColor=white" alt="Name"/>
-<img src="https://img.shields.io/badge/ALIAS-MADARA-B00020?style=for-the-badge&logo=telegram&logoColor=white" alt="Alias"/>
-<img src="https://img.shields.io/badge/STATUS-BUILDING-00C853?style=for-the-badge&logo=rocket&logoColor=white" alt="Status"/>
+<img src="https://img.shields.io/badge/ALIAS-MADARA-B00020?style=for-the-badge&logo=github&logoColor=white" alt="Alias"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00C853?style=for-the-badge&logo=rocket&logoColor=white" alt="Status"/>
 
 <br/><br/>
 
@@ -39,19 +39,22 @@
 ╔══════════════════════════════════════════════════════╗
 ║  NAME   : Shubh                                      ║
 ║  ALIAS  : Madara                                     ║
-║  ROLE   : Telegram Bot Developer & Web Builder       ║
+║  ROLE   : Backend Developer                          ║
 ║  STACK  : Python · JavaScript                        ║
-║  DEPLOY : Railway · Render · Koyeb  (zero-VPS)       ║
-║  CLAN   : GMS Network / Defaulter Fighting Clan      ║
+║  BUILDS : Full APIs · 3D Scroll Websites             ║
+║  DEPLOY : Railway · Render · Koyeb · Heroku          ║
+║  STYLE  : AI-Assisted Development (Vibe Coding)      ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-- 🤖 I build Telegram bots: music/VC bots, group management, voting and account-shop bots
-- 🌐 I build visually ambitious single-file web projects with cinematic 3D looks
-- ☁️ I deploy on cloud platforms, no VPS needed
-- 🔥 All my projects carry the **Madara** name
+I am a backend developer who designs and ships complete products, from the API layer to a polished front end.
+
+- ⚙️ Design and build full REST APIs, from data models and authentication to deployment
+- 🌐 Build complete websites with immersive 3D scroll effects and cinematic visuals
+- ☁️ Deploy on cloud platforms with a lean, VPS-free setup
+- 🎧 Use AI-assisted development (vibe coding) to move from idea to working product quickly
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="line"/>
 
@@ -59,7 +62,6 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -122,17 +124,17 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="line"/>
 
-## 🔥 MADARA PROJECTS
+## 🔥 WHAT I DO
 
 <div align="center">
 
-| PROJECT | WHAT IT DOES | STACK |
-|:--:|:--:|:--:|
-| **MADARA_VOTE** | Voting bot | Python · aiogram 3 · Railway |
-| **Madara Media Bot** | Music / VC bot | Python · Kurigram |
-| **Nobita Account Bot** | Account-shop bot | Python · Railway |
-| **GMS Network** | Community website | HTML · CSS · JS |
-| **Defaulter Fighting Clan** | Clan management site | HTML · CSS · JS |
+| FOCUS AREA | WHAT I DELIVER |
+|:--:|:--:|
+| **API Development** | Complete backend APIs with authentication, data models and clean documentation |
+| **3D Scroll Websites** | Immersive, animation-driven websites with cinematic 3D scroll effects |
+| **Backend Architecture** | Scalable services built with Python and JavaScript |
+| **Cloud Deployment** | Production hosting on Railway, Render, Koyeb and more |
+| **AI-Assisted Development** | Faster delivery by pairing my engineering with AI tools |
 
 </div>
 
@@ -166,25 +168,27 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhkumarmishra82-debug/shubhkumarmishra82-debug/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhkumarmishra82-debug/shubhkumarmishra82-debug/output/github-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shubhkumarmishra82-debug/shubhkumarmishra82-debug/output/github-snake-dark.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/shubhkumarmishra82-debug/shubhkumarmishra82-debug/output/github-snake-dark.svg" />
 </picture>
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="line"/>
 
 ## 📡 CONNECT WITH ME
 
 <div align="center">
 
-<a href="https://t.me/">
-  <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
 <a href="https://github.com/shubhkumarmishra82-debug">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/MAIN%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Main GitHub"/>
+</a>
+<a href="https://github.com/dev-shubh-madara">
+  <img src="https://img.shields.io/badge/BACKUP%20GITHUB-6A00FF?style=for-the-badge&logo=github&logoColor=white" alt="Backup GitHub"/>
 </a>
 
 <br/><br/>
 
-<i>"Wake up to reality. Nothing ever goes as planned in this accursed world." — Madara</i>
+**🔁 Backup account:** [github.com/dev-shubh-madara](https://github.com/dev-shubh-madara)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:6a00ff,100:0d1117&height=140&section=footer" width="100%" alt="footer"/>
 
