@@ -42,7 +42,7 @@
 ║  ROLE   : Telegram Bot Developer & Web Builder       ║
 ║  STACK  : Python · JavaScript                        ║
 ║  DEPLOY : Railway · Render · Koyeb  (zero-VPS)       ║
-║  CLAN   : GMS Network / Defaulter Fighting Clan      ║
+║  CLAN   : Sr university   ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
